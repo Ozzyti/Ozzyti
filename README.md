@@ -32,7 +32,7 @@ A hybrid system built in Python with machine learning libraries and an LLM API. 
 
 ## Tools
 
-`OpenSCAD` `Bambu Studio` `FlashPrint` `Git`
+`OpenSCAD` `Bambu Studio` `FlashPrint` `Git` 'Blender' FlashStudio
 
 ## Get in touch
 
