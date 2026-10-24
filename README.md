@@ -37,6 +37,7 @@ Over 25 custom parts delivered to clients as source files, ready to print.
 
 | Project | What it shows |
 |---|---|
+| [Portfolio site](https://ozzyti.github.io/Portfolio/) | Services, projects and a live parametric card, in one page |
 | [3Ddesigns](https://github.com/Ozzyti/3Ddesigns) | A showcase of my CAD work: a snap fit USB case, a six version aquarium light holder redesigned after a failed test print, a lattice basket and a three piece goblet |
 
 ## Tools
@@ -46,4 +47,5 @@ Over 25 custom parts delivered to clients as source files, ready to print.
 ## Get in touch
 
 Open to software and custom part design work.
+**Portfolio:** [ozzyti.github.io/Portfolio](https://ozzyti.github.io/Portfolio/)  
 **Email:** baelyn.k.blackmore112895@outlook.com
