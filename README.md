@@ -1,51 +1,42 @@
 <h1 align="center">Baelyn Blackmore</h1>
-<h3 align="center">Software Engineer and CAD Designer</h3>
+<h3 align="center">Freelance 3D part designer and software engineer</h3>
 
 <p align="center">
-  I write code that builds physical parts. Python, OpenSCAD, parametric designs, and over 25 custom parts delivered to clients.
+  Custom 3D printed parts for clients, and software I build myself, including an AI that designs parts from a single sentence. Over 25 parts delivered.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/OpenSCAD-F9D72C?style=for-the-badge&logo=openscad&logoColor=black" alt="OpenSCAD">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/FDM_3D_Printing-1F2937?style=for-the-badge" alt="FDM 3D Printing">
-  <img src="https://img.shields.io/badge/Bambu_Studio-00AE42?style=for-the-badge" alt="Bambu Studio">
+  <a href="https://ozzyti.github.io/Portfolio/"><b>View my portfolio</b></a>
 </p>
 
 ---
 
-## Software
+## Featured
 
-* **AI agent (private).** A hybrid system built in Python with machine learning libraries and an LLM API. It reads existing OpenSCAD source files and generates new parts on request, and I use it in my own design workflow.
-* **Design in code.** Parts are written as programs. Named dimensions, derived values and built in checks that stop a bad combination of numbers before it prints.
-* **Python** is my main language, and I use **C++** at times.
+* **An AI that designs parts.** Describe a part in one sentence. The AI designs it, checks it, and prepares it for the printer. I built it myself, and a live demo is available on request.
+* **My business card is 3D printed.** Raised white lettering on black, with a QR code on the back that opens my portfolio.
+* **The Freeze Frame.** A first person game I designed, wrote and built myself. A beta is playable on my portfolio, and a larger version is coming soon.
 
-## CAD design
+## What I build for clients
 
-* **Parametric CAD.** Change one number and the whole part rebuilds.
-* **Design for the printer.** Parts are modelled in their print orientation, with fits, tolerances and layer direction worked out up front.
-* **Multi part and multi colour.** Snap fits, captive hardware, engraved text and two colour inlays.
-* **Learning from failures.** My aquarium light holder went through six versions. When a test print tore apart along a layer line, I found the cause and redesigned it with steel rods to carry the load.
+* Custom parts designed around what you need
+* Fit, strength and print direction worked out before you print
+* Designs that are easy to adjust
+* Several parts and colors, hidden hardware and engraved text
+* Every part test printed before it goes out
+* Custom software that saves you time
 
-## Freelance work
+## Projects
 
-Over 25 custom parts delivered to clients as source files, ready to print.
+* **Click lock shelving.** Held 81 lb for over 6 hours and carries 30 lb comfortably.
+* **Aquarium light holder (client work).** Six versions. When a test tore a rail off, I redesigned it with hidden steel rods to carry the load.
+* **Lattice basket.** Every strand leans no more than 45 degrees so it prints cleanly.
 
-## Featured work
-
-| Project | What it shows |
-|---|---|
-| [Portfolio site](https://ozzyti.github.io/Portfolio/) | Services, projects and a live parametric card, in one page |
-| [3Ddesigns](https://github.com/Ozzyti/3Ddesigns) | A showcase of my CAD work: a snap fit USB case, a six version aquarium light holder redesigned after a failed test print, a lattice basket and a three piece goblet |
-
-## Tools
-
-`Python` `C++` `OpenSCAD` `Git` `Bambu Studio` `FlashPrint`
+More pictures: [3Ddesigns](https://github.com/Ozzyti/3Ddesigns)
 
 ## Get in touch
 
-Open to software and custom part design work.
+Need a part designed or software built? Send me what you have.
+
 **Portfolio:** [ozzyti.github.io/Portfolio](https://ozzyti.github.io/Portfolio/)  
 **Email:** baelyn.k.blackmore112895@outlook.com
