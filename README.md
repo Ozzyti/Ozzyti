@@ -13,7 +13,7 @@
 
 ## Featured
 
-* **An AI that designs parts.** Describe a part in one sentence. The AI works from a vault of my designs, each one annotated with what it does and how it fits. It updates and mixes them into a custom piece, checks it, and prepares it for the printer. I built it myself, and a live demo is available on request.
+* **An AI that designs parts.** Describe a part in one sentence. This is not a generic chatbot guessing at shapes. It works from my own vault of designs, each one annotated by me with what it does and how it fits. It updates and mixes them into a custom piece, checks it, and prepares it for the printer. I built it myself, and a live demo is available on request.
 * **My business card is 3D printed.** Raised white lettering on black, with a QR code on the back that opens my portfolio.
 * **The Freeze Frame.** A first person game I designed, wrote and built myself. A beta is playable on my portfolio, and a larger version is coming soon.
 
