@@ -39,4 +39,5 @@ More pictures: [3Ddesigns](https://github.com/Ozzyti/3Ddesigns)
 Need a part designed or software built? Send me what you have.
 
 **Portfolio:** [ozzyti.github.io/Portfolio](https://ozzyti.github.io/Portfolio/)  
-**Email:** baelyn.k.blackmore112895@outlook.com
+**Email:** baelyn.k.blackmore112895@outlook.com  
+**Phone:** (774) 666-1450
